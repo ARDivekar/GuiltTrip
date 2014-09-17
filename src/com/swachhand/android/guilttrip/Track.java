@@ -120,8 +120,6 @@ public class Track {
 	public void setInsult(String insult) {
 		mInsult = insult;
 	}
-
-	
 	
 	public static String getModeOfTransport(int mode) {
 		switch(mode) {
